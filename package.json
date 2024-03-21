@@ -1,0 +1,19 @@
+{
+  "name": "smara",
+  "version": "1.0.0",
+  "description": "\"Smara\" एक नोट-लेखन, प्रोजेक्ट मैनेजमेंट, तथा सहयोग टूल है जो उपयोगकर्ताओं को नोट्स, दस्तावेज़, टास्क, तथा विकियों को बनाएं और संगठित करने देता है।",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoccCyborg/smara.git"
+  },
+  "author": "Rocc Cyborg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RoccCyborg/smara/issues"
+  },
+  "homepage": "https://github.com/RoccCyborg/smara#readme"
+}
